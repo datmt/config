@@ -1,0 +1,10 @@
+{
+	auto_start: "on",
+	show_winow: "off",
+	num_process: 10,
+	num_tab: 6,
+	tab_open_delay: 3,
+	browser_delay: 5,
+	min_time_browsing: 240,
+	max_time_browsing: 360
+}
